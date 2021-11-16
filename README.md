@@ -8,7 +8,7 @@ The objectives of this collection -
 
 * [The official AoC website](https://adventofcode.com/)
 ## Contributing
-View [contributing guidelines](https://github.com/PythonFreeCourse/lms/blob/master/CONTRIBUTING.md).
+View [contributing guidelines](https://github.com/ron-huberfeld/advent-of-code/blob/master/CONTRIBUTING.md).
 
 ## Creating development environment
 ### Prerequisites
