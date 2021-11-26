@@ -3,7 +3,7 @@ def get_input(path):
         return fh.read()
 
 
-data = get_input('day1_input.txt')
+data = get_input('resources/day1_input.txt')
 counter = 0
 for item in data:
     if item == '(':
