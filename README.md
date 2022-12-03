@@ -17,9 +17,9 @@ View [contributing guidelines](https://github.com/ron-huberfeld/advent-of-code/b
 
 ### Minimal setup
 1. Clone this repository.
-2. Change directory to the specific day to view.
-3. Run the program file.
-
 ```bash
 git clone https://github.com/ron-huberfeld/advent-of-code
 ```
+2. Change directory to the specific day to view.
+3. Run the program file.
+
